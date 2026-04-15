@@ -1,7 +1,7 @@
 ---
 enhancements:
   - |
-    Added ``link_format`` parameter to ``PDFMinerToDocument`` and ``PyPDFToDocument`` converters,
-    enabling hyperlink extraction from PDF files. Supports ``"markdown"`` (``[text](url)``),
-    ``"plain"`` (``text (url)``), and ``"none"`` (default, no link extraction) formats,
-    consistent with ``DOCXToDocument``.
+    Added `link_format` parameter to `PDFMinerToDocument` and `PyPDFToDocument` converters,
+    enabling hyperlink extraction from PDF files. Supports `"markdown"` (``[text](url)``),
+    `"plain"` (``text (url)``), and `"none"`` (default, no link extraction) formats,
+    consistent with `DOCXToDocument`.
